@@ -1,6 +1,6 @@
 # Welcome to JOSE EDIT!
 
-Este es mi docuy opening the **file explorer** on the left corner of the navigation bar.
+Este es mi documento nuevo y opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk3ODkwNTQsLTk2MDk4NTE4Nl19
+eyJoaXN0b3J5IjpbMzk1MDMxMTc4LC05NjA5ODUxODZdfQ==
 -->
